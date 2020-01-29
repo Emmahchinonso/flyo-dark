@@ -363,7 +363,7 @@ label{
 }
 
 .icon-item .icon-link:hover{
-    background: hsl(0, 0%, 100%);
+    border-color: hsl(198, 60%, 50%);
     color: hsl(198, 60%, 50%);
 }
 
